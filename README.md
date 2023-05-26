@@ -62,7 +62,7 @@
 </div>  
   
  
-[![badge](https://img.shields.io/badge/alena.tkachenk@mail.ru-1C92EB style="center")]()
+[![badge style="center"](https://img.shields.io/badge/alena.tkachenk@mail.ru-1C92EB)]
 [![badge](https://img.shields.io/badge/@alena_nikitiina-Telegram-1C92EB)](https://t.me/alena_nikitiina)  
 
   
