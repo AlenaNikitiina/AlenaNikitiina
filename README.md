@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://picsum.photos/200/300?grayscale" align="center" style="width: 50%" />
+<img src="https://picsum.photos/200/300?grayscale" align="center" style="width: 30%" />
 </div>  
   
 
