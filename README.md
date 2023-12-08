@@ -12,7 +12,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -71,7 +71,7 @@
 
 
 <br/>  
-__
+---
 
 <div align="center"><img src="https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" style="width: 20%" /></div>  
 
