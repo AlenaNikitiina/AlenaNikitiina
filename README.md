@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=696&q=80" align="center" style="width: 30%" />
 </div>  
-  
 
 ### <div align="center">Hi, I'm Alёna, a freelance web developer 💻</div>  
   
@@ -15,7 +14,6 @@
 <table><tr><td valign="top" width="33%" align="center">
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -26,7 +24,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -69,8 +66,6 @@
 
 <br/>  
 
-
-<br/>  
 ---
 
 <div align="center"><img src="https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" style="width: 20%" /></div>  
@@ -80,9 +75,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlenaNikitiina&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
-<br />
