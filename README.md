@@ -57,22 +57,13 @@
 [![badge](https://img.shields.io/badge/@alena_nikitiina-Telegram-1C92EB)](https://t.me/alena_nikitiina)  
 
   
-
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlenaNikitiina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
 ---
 
 <div align="center"><img src="https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" style="width: 20%" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlenaNikitiina&&style=flat-square" align="center" />
-</div>  
-
+ 
