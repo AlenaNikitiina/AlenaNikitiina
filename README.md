@@ -2,14 +2,15 @@
 <img src="https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=696&q=80" align="center" style="width: 30%" />
 </div>  
 
+
 ### <div align="center">Hi, I'm Alёna, a freelance web developer 💻</div>  
   
-
 <br/>  
 
 
 ## About me
 Меня зовут Алёна и я начинающий frontend-разработчик. Недавно я закончила курсы в Яндекс Практикуме, где изучала: вёрстку, JS, React.js и основы бэкенда на Node.js. Мне всегда было интересно пожить в другой стране и поэтому я переехала два года назад на Кипр. До этого я работала врачом анестезиологом-реаниматологом, но параллельно пробовала профессии связанные с дизайном и программированием. Сейчас наконец-то полностью посвящаю себя web разработке.
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%" align="center">
@@ -60,9 +61,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlenaNikitiina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
----
 
 <div align="center"><img src="https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80" style="width: 20%" /></div>  
+
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlenaNikitiina&&style=flat-square" align="center" />
