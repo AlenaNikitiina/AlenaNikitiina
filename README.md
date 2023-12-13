@@ -7,7 +7,6 @@
   
 <br/>  
 
-
 ## About me
 Меня зовут Алёна и я начинающий frontend-разработчик. Недавно я закончила курсы в Яндекс Практикуме, где изучала: вёрстку, JS, React.js и основы бэкенда на Node.js. Мне всегда было интересно пожить в другой стране и поэтому я переехала два года назад на Кипр. До этого я работала врачом анестезиологом-реаниматологом, но параллельно пробовала профессии связанные с дизайном и программированием. Сейчас наконец-то полностью посвящаю себя web разработке.
 
@@ -48,16 +47,13 @@ DevOps
 </tr></table>  
 <br/>
 
-
 ## Connect with me  
 
 [![badge](https://img.shields.io/badge/alena.tkachenk@mail.ru-1C92EB)]()
 [![badge](https://img.shields.io/badge/nikitiina.alena@gmail.com-1C92EB)]()
 [![badge](https://img.shields.io/badge/@alena_nikitiina-Telegram-1C92EB)](https://t.me/alena_nikitiina)  
 
-  
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlenaNikitiina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
